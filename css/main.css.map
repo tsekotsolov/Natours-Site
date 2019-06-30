@@ -11,7 +11,8 @@
         "../sass/base/_typography.scss",
         "../sass/base/_utilities.scss",
         "../sass/components/_button.scss",
-        "../sass/layout/_header.scss"
+        "../sass/layout/_header.scss",
+        "../sass/pages/_home.scss"
     ],
     "names": [],
     "file": "main.css"
